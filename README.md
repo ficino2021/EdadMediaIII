@@ -1,5 +1,5 @@
 # EdadMediaIII
-Sitio del curso de Historia 3 2022-1
+Sitio del curso de Historia 3 2022-1 https://ficino2021.github.io/EdadMediaIII/
 
 Es aqui donde harás la página que corresponde a la segunda acividad del grupo. Para hacerlo sigue estas instrucciones: 
 
