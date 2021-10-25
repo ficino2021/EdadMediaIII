@@ -15,7 +15,7 @@ layout: page
 title: About
 ---
 
-A contunaición escribe, utulizando las marcas marKdown tu entrada  
+A contunaición escribe, utulizando las marcas markdown tu entrada  
 Ve al final de la página y pon un mensaje de confirmación, por ejemplo "version1" y haz clic en el botón verde "Confirmar cambios" (Commit changes).
 
 Estas son las marcas de markdown que puedes utilizar 
