@@ -1,9 +1,10 @@
 
 # Site settings
-Title: Filosofia de la Edad Media 
+Title:  Filosofía de la Edad Media 
 author:
 name: Ernesto Priani
 description: Sitio de curso de Historia de Filosofía III. FYL UNAM
 
 # Build settings
 remote_theme: jekyll/minima
+
