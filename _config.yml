@@ -1,6 +1,7 @@
 
+# Site settings
 title: Historia de la filosofía medieval 
 description: Sitio del curso de filosofía medieval 
 
-
+# Build settings
 remote_theme: pages-themes/leap-day@v0.2.0
