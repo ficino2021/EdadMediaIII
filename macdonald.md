@@ -52,3 +52,12 @@ Fue una mujer parisina especialista en salud, con tratamientos muy efectivos; se
 Este códice es el legado más significativo de Hildegarda de Bingen; mide 46x30 cm y pesa 15kg: algo muy inusual en los manuscritos medievales. Data, aproximadamente, del siglo XV o XVI. El códex contiene el libro de Scivias, las obras musicales completas: Symphonia, Ordo virtutum, una colección de cartas de Hildegarda, los escritos lingüísticos, una colección fragmentaria de homilías: (exposiciones de los evangelios), la biografía de Hildegarda, escrita por los monjes: Gottfried y Theoderich, y la carta a los prelados de Mainz. 
 El códice permaneció durante siglos en su lugar de origen: el convento Rupertsberg cerca de Bingen. Después tuvo varios traslados, como al monasterio hermano de Eibingen, y la biblioteca estatal en Wiesbaden; por último, fue trasladado a Dresde, y de allí devuelto a Wiesbaden por bibliófilos y bibliotecarios. 
 
+### Hortus Deliciarum 
+<details>
+  <summary>Hortus Deliciarum | Imágenes</summary>
+  <img src="https://user-images.githubusercontent.com/92763113/144125529-46668c73-dd2b-495f-abe9-9e8bdaf71cdf.png" name="Hortus 1" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144125591-81720322-8b77-45b2-b255-397944add0ab.png" name="Hortus 2" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144125682-a302ca21-386b-4cb8-9d65-f57e9ecdb9ff.png" name="Hortus 3" width="300">
+</details>
+
+Este códice fue realizado entre 1167 y 1185 por Herrad de Landsberg en la Abadía de Hohenburg en Alsacia, que ahora está en Francia. Este manuscrito estaba destinado a servir con fines pedagógicos en el convento; contiene material teológico, filosófico, literario y musical. El manuscrito fue quemado en 1870 cuando la biblioteca que lo albergaba en Estrasburgo fue bombardeada durante un asedio a la ciudad. Partes de él se reconstruyeron más tarde porque algunas partes se habían copiado antes. El manuscrito se considera un valioso testimonio de la cultura monástica del siglo XII; se piensa que fue un libro exclusivo de mujeres, fruto de una mente de excelencia femenina: escribas y artistas mujeres. Herrad, en el prólogo se considera a ella misma como una abeja inspirada por Dios, algo interesante; también dedicó su obra a las mujeres de su comunidad, con la esperanza de que encontrarán, se dice, “comida agradable” y “refrigerio espiritual en sus gotas de rocío meloso”.
