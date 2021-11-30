@@ -39,3 +39,16 @@ Fue una monja alsaciana, autora de la enciclopedia pictórica “Hortus deliciar
 <img src="https://user-images.githubusercontent.com/92763113/143973793-686a85a0-0f33-443b-9289-bbe000ea9231.png" height="200">
 
 Fue una mujer parisina especialista en salud, con tratamientos muy efectivos; se cuenta que ella creía en el concepto de “secreto femenino”: es decir, que sólo otra mujer podía ver sus partes íntimas, y mantener a los varones alejados de los “asuntos de mujeres”. Es interesante que ella practicaba un principio que dicta: que, si el paciente no se curaba siguiendo el tratamiento, ella no cobraba entonces. En 1322 se enfrentó a un juicio por prácticas ilegales; sólo por ejercer la medicina sin una licencia; ella se defendió diciendo que no era correcto que un varón palpara los pechos y los abdómenes de las mujeres; y aunque hubo testigos que avalaron y le dieron gran mérito a sus habilidades como médica, ella perdió el juicio y fue condenada a ya no ejercer su profesión. No se sabe si continuó dando consultas. 
+
+## Manuscritos
+### Códice de Wiesbaden | Riesencodex
+<details>
+  <summary>Códice de Wiesbaden | Imágenes</summary>
+  <img src="https://user-images.githubusercontent.com/92763113/144120455-bed84492-4504-4d29-ac4b-a6aa005ec220.png" name="Riesencodex 1" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144120511-1b5ab706-7f58-4da8-a8d5-426ed32535bd.png" name="Riesencodex 2" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144120549-d237998d-5c01-4675-b749-dff44b020de1.png" name="Riesencodex 3" width="300">
+</details>
+
+Este códice es el legado más significativo de Hildegarda de Bingen; mide 46x30 cm y pesa 15kg: algo muy inusual en los manuscritos medievales. Data, aproximadamente, del siglo XV o XVI. El códex contiene el libro de Scivias, las obras musicales completas: Symphonia, Ordo virtutum, una colección de cartas de Hildegarda, los escritos lingüísticos, una colección fragmentaria de homilías: (exposiciones de los evangelios), la biografía de Hildegarda, escrita por los monjes: Gottfried y Theoderich, y la carta a los prelados de Mainz. 
+El códice permaneció durante siglos en su lugar de origen: el convento Rupertsberg cerca de Bingen. Después tuvo varios traslados, como al monasterio hermano de Eibingen, y la biblioteca estatal en Wiesbaden; por último, fue trasladado a Dresde, y de allí devuelto a Wiesbaden por bibliófilos y bibliotecarios. 
+
