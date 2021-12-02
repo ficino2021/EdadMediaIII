@@ -68,7 +68,7 @@ Este códice fue realizado entre 1167 y 1185 por Herrad de Landsberg en la Abad�
   <summary>Liber Trotile | Imágenes</summary>
   <img src="https://user-images.githubusercontent.com/92763113/144336530-baa2f2f6-b1e0-4361-b21d-e1a4543283be.png" name="Trotile 1" width="300">
   <img src="https://user-images.githubusercontent.com/92763113/144336617-a98a062d-e5ac-4547-8af5-992366066ee9.png" name="Trotile 2" width="300">
-  <img src="https://user-images.githubusercontent.com/92763113/144125682-a302ca21-386b-4cb8-9d65-f57e9ecdb9ff.png" name="Trotile 3" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144337672-8e559d9a-b935-4df1-b2bc-3186bcab69e3.png" name="Trotile 3" width="300">
 </details>
 
 En este manuscrito se encuentra un presunto retrato de Trotula de Salerno, y se encuentran tratados médicos eruditos con algunos textos prácticos adicionales (Miscellanea Medica XVIII), incluyendo el _Liber Trotile_, lo cual se traduce a Libro de Tortula.
