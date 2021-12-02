@@ -20,10 +20,10 @@ Podemos encontrar más información de Hipatia en ña siguiente presentación: h
 
 Hildegarda de Bingen fue una Santa, compositora, escritora, filósofa, científica, médica y mística alemana, de la edad media. Esta mujer entra en los dos ámbitos de nuestro tema, y por eso es importante hablar de ella y profundizar en sus obras; entre las características místicas de Hildegarda, se dice que desde niña experimentaba visiones: una voz le explicaba lo que veía, y, además de presenciar imágenes, también se le acontecían melodías. A los cuarenta y dos años, formalizó el acto de escribir sus visiones, y así surgió su libro:” Scivias”. Estas visiones, consideradas místicas, tuvieron la aprobación de varios sectores de poder religiosos, y las consideraron fruto de la intervención del espíritu santo. También escribió dos libros sobre ciencias naturales: “Physica” y medicina (“Cause et Cure”); allí expuso conocimientos del funcionamiento del cuerpo humano, sobre herbología, y otros tratamientos médicos de su época. Ya en sus últimos días, escribió otra obra mística titulada: “Liber divinorum operum”. El “Riesencodex” es un manuscrito medieval que contiene a las obras místicas de Hildegarda: “Scivias”, “Liber vite meritorum” y “Liber divinorum operum”. 
 
-### Trota de Salerno
+### Trotula de Salerno
 <img src="https://user-images.githubusercontent.com/92763113/143971932-a2bc825d-3f29-4486-8740-4754b46d7dd5.png" height="200">
 
-Fue una médica italiana, intervino en varios tratados médicos de su época; algunos libros que se le atribuye su participación son:” De curis mulierum”, de donde vino otro texto: “Practicam secundum Trotam”: la práctica médica según Trota; estos libros son sobre medicina de mujeres. Su especial interés en la salud de las mujeres hace que algunos la consideren la primera ginecóloga, pues desarrolló conocimientos y tratamientos que se aplicaban en cuanto a la fertilidad, el parto, la concepción, entre otros, que aparecen en sus escritos que sólo durante el siglo XX pudieron ser atribuidos a ella.
+Fue una médica italiana, intervino en varios tratados médicos de su época; algunos libros que se le atribuye su participación son: “De curis mulierum”, de donde vino otro texto: “Practicam secundum Trotam”: la práctica médica según Trota; estos libros son sobre medicina de mujeres. Su especial interés en la salud de las mujeres hace que algunos la consideren la primera ginecóloga, pues desarrolló conocimientos y tratamientos que se aplicaban en cuanto a la fertilidad, el parto, la concepción, entre otros, que aparecen en sus escritos que sólo durante el siglo XX pudieron ser atribuidos a ella.
 
 ### Matilde de Magdeburgo
 <img src="https://user-images.githubusercontent.com/92763113/143972785-b861d3fe-4d5a-4e83-a97f-77a2801a425b.png" height="200">
@@ -61,6 +61,17 @@ El códice permaneció durante siglos en su lugar de origen: el convento Ruperts
 </details>
 
 Este códice fue realizado entre 1167 y 1185 por Herrad de Landsberg en la Abadía de Hohenburg en Alsacia, que ahora está en Francia. Este manuscrito estaba destinado a servir con fines pedagógicos en el convento; contiene material teológico, filosófico, literario y musical. El manuscrito fue quemado en 1870 cuando la biblioteca que lo albergaba en Estrasburgo fue bombardeada durante un asedio a la ciudad. Partes de él se reconstruyeron más tarde porque algunas partes se habían copiado antes. El manuscrito se considera un valioso testimonio de la cultura monástica del siglo XII; se piensa que fue un libro exclusivo de mujeres, fruto de una mente de excelencia femenina: escribas y artistas mujeres. Herrad, en el prólogo se considera a ella misma como una abeja inspirada por Dios, algo interesante; también dedicó su obra a las mujeres de su comunidad, con la esperanza de que encontrarán, se dice, “comida agradable” y “refrigerio espiritual en sus gotas de rocío meloso”.
+
+### Liber Trotile (from: Book of learned medical treatises with some additional practical texts (Miscellanea Medica XVIII))
+
+<details>
+  <summary>Liber Trotile | Imágenes</summary>
+  <img src="https://user-images.githubusercontent.com/92763113/144336530-baa2f2f6-b1e0-4361-b21d-e1a4543283be.png" name="Trotile 1" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144336617-a98a062d-e5ac-4547-8af5-992366066ee9.png" name="Trotile 2" width="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144125682-a302ca21-386b-4cb8-9d65-f57e9ecdb9ff.png" name="Trotile 3" width="300">
+</details>
+
+En este manuscrito se encuentra un presunto retrato de Trotula de Salerno, y se encuentran tratados médicos eruditos con algunos textos prácticos adicionales (Miscellanea Medica XVIII), incluyendo el _Liber Trotile_, lo cual se traduce a Libro de Tortula.
 
 ## Nuestra experiencia
 
