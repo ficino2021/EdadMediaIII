@@ -13,7 +13,14 @@ A pesar de que pocas veces escuchamos nombres femeninos al hablar de filosofía 
 <img src="https://user-images.githubusercontent.com/92763113/143968566-e7ee167c-4dc4-4bef-b84f-a002a5d88394.png" height="200">
 
 Fue una mujer griega, estudiosa de la lógica, las ciencias exactas, destacándose en las matemáticas y la astronomía. Realizó un canon astronómico, tablas astronómicas, cartografió cuerpos celestes y confeccionó un planisferio, también mejoró el astrolabio. También se interesó en la mecánica: inventó un destilador: artefacto para medir el nivel del agua, y un hidrómetro graduado para medir la densidad relativa de los líquidos.
+Hipatia es un caso limítrofe, ya que suele considerarse como pensadora de la antigüedad tardía por ser mujer pagana, a pesar de haber vivido en la edad media y estar relacionada con temas tratados en la época.
 Podemos encontrar más información de Hipatia en ña siguiente presentación: https://prezi.com/p/xrfq0ivjh0e3/hipatia/
+<details>
+  <summary>Más imágenes de interés | Inventos</summary>
+  <img src="https://user-images.githubusercontent.com/92763113/144339155-a68e0a03-c968-4abd-99ab-2a494bd59735.png" name="Astrolabio" height="300">
+  <img src="https://user-images.githubusercontent.com/92763113/144339451-21334e69-645a-4288-94d3-f445fbf0e913.png" name="Hidrómetro" height="300">
+</details>
+
 
 ### Hildegarda de Bingen
 <img src="https://user-images.githubusercontent.com/92763113/143971563-b838ae33-9e56-42a5-aaf8-076c8d45b667.png" height="200">
