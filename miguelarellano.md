@@ -1,3 +1,8 @@
+---
+layout: page
+title: Peste
+---
+
 Mi comic es relacionado a la vida durante la peste negra, una situación similar a la que nosotros conocimos en 2020 con el coronavirus, llenos de incertidumbre pero con un avance tremendo a comparación de nuestros antepasados que sufrieron tal peste, así que quise replicarlo. https://drive.google.com/file/d/1dgdyqMFDeozLFXWXSEcA1ErQScrG0VlO/view
 
 En cuanto al tema de política en la edad media encontré los siguientes pasajes;
