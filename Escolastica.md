@@ -48,3 +48,6 @@ Debemos tener en claro que el uso de manuscritos era lo más destacable de la ed
 
 ![introduccion](https://user-images.githubusercontent.com/93114090/145660436-16a675a3-ca09-4da7-984b-ff0dbc2f4751.png)
 
+Algo que quiero agregar fue la experiencia que tuve al revisar varios manuscritos, pareciera ser algo que no tendría importancia cuando nos referimos a una obra que fácilmente podemos descargar en una página cualquiera, pero al revisar lo bien que se preservaron y los detalles que se implementaron para su cuidado como las cubiertas de cierto tipo de material o las hojas en blanco para cubrir las hojas con tienta solo puedo pensar en lo mucho que significaba que los conocimientos no se perdieran en el tiempo, porque estamos hablando de conocimiento el cual puede ser trabajo de una vida de un pensador y su gran aporte no debería perderse, incluso el simple hecho de transcribir obras tan grandes conlleva una gran responsabilidad y habilidad para hacerlo.
+
+![portada](https://user-images.githubusercontent.com/93114090/145660601-3fd55608-db9e-40f3-89f5-7fcc4420f163.png)
