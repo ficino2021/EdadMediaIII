@@ -21,3 +21,30 @@ más baja categoría. […] solución hay que decir: es conveniente que la sagra
 lo divino y espiritual a través de imágenes tomadas de lo materias […] a la primera hay que decir:
 el poeta usa metáforas para ofrecer una imagen, pues la imagen por naturaleza agrada al hombre
 […] (Tomas de Aquino, 2001, p. 97-98)*
+
+![manuscrito](https://user-images.githubusercontent.com/93114090/145660285-4786368f-9487-4a1f-9598-25f62227213e.png)
+
+*2- Como se dice en IX Metaphys.1. Sólo puede haber mal en los seres que están en potencia, pues el
+sujeto de la privación es el ser que está en potencia. Pero como los ángeles son formas
+subsistentes, en su ser no hay potencia. Por lo tanto, en ellos no puede haber mal. […] En cambio
+está lo que se dice en Job 4,18: En sus ángeles halló maldad. Solución. Hay que decir: Tanto el
+ángel como cualquier otra criatura racional, si sólo se considera su naturaleza, puede pecar. Si hay!
+alguno que no pueda pecarse debe a un don de la gracia y no a la condición natural. El porqué de
+esto radica en que pecar, trátese del pecado de naturaleza, de profesión o de conducta, consiste en
+que el acto se desvía de la rectitud que debe tener. […] Respuesta a las objeciones: 1. A la primera
+hay que decir: En lo ángeles no hay potencia para el ser natural. Sin embargo, en su parte intelectiva sí 
+la tienen para optar por esto o aquello. En cuanto a esto, en ellos puede haber mal. (Tomas de Aquino, 2001, p. 581-583)*
+
+*3- Dios, ¿es o no es evidente por si mismo?[…] objeciones por las cuales parece que dios es evidente
+por si mismo: 1 se dice que son evidentes por si mismas aquellas cosas cuyo conocimiento nos es
+connatural, por ejemplo, los primeros principios […] Hay que decir: la evidencia de algo puede ser
+de dos modos. Uno, en si misma y no para nosotros: otro. En si misma y para otros […] a la primera
+hay que decir: conocer de un modo general y no sin confusión que dios existe, está impreso en
+nuestra naturaleza en los sentidos de que dios es la felicidad del hombre […] (Tomas de Aquino, 2001, p. 108-109)*
+
+![suma](https://user-images.githubusercontent.com/93114090/145660404-30ecf74f-b1c4-4786-8b9d-9779a530dec8.png)
+
+Debemos tener en claro que el uso de manuscritos era lo más destacable de la edad media, debido a que la información se preservaba en ellos estos eran muy valiosos y las personas que se encargaban de transcribirlos y leerlos eran gente que se especializaba en ello. Justo como lo muestran las imágenes estas pueden tener diferente estructura de escritura porque depende de cuánto papel se disponía, también el idioma puede variar entre manuscrito y otro, pero las imágenes que encontré pertenecían al idioma latín y griego. Un modo de desarrollar una idea eran estructuras de comentarios, aunque si encontre manuscritos acerca de la obra de la suma teologica, tambien me encontre con otros manuscritos que comentarios sobre la suma teologica.
+
+![introduccion](https://user-images.githubusercontent.com/93114090/145660436-16a675a3-ca09-4da7-984b-ff0dbc2f4751.png)
+
