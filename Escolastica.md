@@ -50,4 +50,31 @@ Debemos tener en claro que el uso de manuscritos era lo más destacable de la ed
 
 Algo que quiero agregar fue la experiencia que tuve al revisar varios manuscritos, pareciera ser algo que no tendría importancia cuando nos referimos a una obra que fácilmente podemos descargar en una página cualquiera, pero al revisar lo bien que se preservaron y los detalles que se implementaron para su cuidado como las cubiertas de cierto tipo de material o las hojas en blanco para cubrir las hojas con tienta solo puedo pensar en lo mucho que significaba que los conocimientos no se perdieran en el tiempo, porque estamos hablando de conocimiento el cual puede ser trabajo de una vida de un pensador y su gran aporte no debería perderse, incluso el simple hecho de transcribir obras tan grandes conlleva una gran responsabilidad y habilidad para hacerlo.
 
-![portada](https://user-images.githubusercontent.com/93114090/145660601-3fd55608-db9e-40f3-89f5-7fcc4420f163.png)
+![portada](https://user-images.githubusercontent.com/93114090/145661785-eae5ebee-a6da-4528-b368-8c9d961ed94f.png)
+
+
+## COMIC
+
+Para la elaboración de mi comic utilice la *Jerarquía Celeste de Dionisio *, la cual fue base de muchos términos que me acuñe, como la utilización de la luz para simbolizar a el dios, así como la simbolización de los principios religiosos acuñándolos como una tradición dentro de mi obra, la utilización de ángeles como mensajeros de dios fue parte de una retroalimentación y al investigar cómo se concibe el trono de dios en la biblia fue que pude plasmarlo un poco. El final fue pensado en cuanto a descripciones de los ángeles en la biblia ya que al escuchar su descripción me di cuenta que no son como yo los imaginaba o como se idealizan en la iglesia, partiendo de esta premisa quise colocar el caso en el que dios no sea como nos imaginamos que es.
+
+DESCARGA DEL COMIC:
+
+[ACFrOgDiDwnozkWlhpi8riKIpaBguJ1p2Uw-GwvZkNvGaLQkjuB_x3oy4XM2O_mUlhzFU4C7VK2GqNwrdgxmPP2prWzYpgmUA8OBPJ4mFszAbrkFWKtSmMuNyolsLUNZXNW3htE3x9NKiDivToSU.pdf](https://github.com/ficino2021/EdadMediaIII/files/7696305/ACFrOgDiDwnozkWlhpi8riKIpaBguJ1p2Uw-GwvZkNvGaLQkjuB_x3oy4XM2O_mUlhzFU4C7VK2GqNwrdgxmPP2prWzYpgmUA8OBPJ4mFszAbrkFWKtSmMuNyolsLUNZXNW3htE3x9NKiDivToSU.pdf)
+
+## REFERENCIAS:
+SANTO TOMAS DE AQUINO, SUMA TEOLOGICA, 4a ed. (Madrid: BIBLIOTECA DE AUTORES CRISTIANOS, 2001)
+
+DIONISIO AREOPAGITA, "LA JERARQUIA CELESTE", en Obras completas del Pseudo Dionisio Areopagita (Madrid: BIBLIOTECA DE AUTORES CRISTIANOS, 1990)
+
+Hernán M. Garofalo, "Monstruos y monstruosidades en Agustín de Hipona, Gregorio Centro de Estudios Históricos Prof. Carlos S. A. Segreti, 29 de agosto de 2021, https://cehsegreti.org.ar/historia-social-5/mesas%20ponencias/MESA%2011/GAROFALO_11.pdf.
+
+Pablo A. Cavallero, "LA BIBLIA EN LA JERARQUÍA CELESTE DE PSEUDO DIONISIO", Byzantion Nea Hellás, consultado el 29 de agosto de 2021, 
+
+Robles, R. (2017, 17 de diciembre). Tomás de Aquino y la filosofía escolástica - Didáctica de la Filosofía. Vida de profesor El blog de Rafael Robles. https://rafaelrobles.com/filo/index.php?title=Tomás_de_Aquino_y_la_filosofía_escolástica
+
+Raña, C. (2001). LENGUAJE Y FILOSOFÍA EN EL SIGLO XII: JUAN DE SALISBURY. Universidad de Santiago de Compostela.https://ruc.udc.es/dspace/bitstream/handle/2183/11186/CC68%20art%2015.pdf?sequence=1&amp;amp;isAllowed=y
+: en este documento básicamente analiza la composición de la cuestión.
+
+MANUSCRITO 1: 1 https://digital.bodleian.ox.ac.uk/objects/b7e53c85-9e93-475b-adf8-98da4b1a0ce6/surfaces/39713817-ae68-44af-817a-89a80b6b881b/
+
+MANUSCRITO 2: https://digital.bodleian.ox.ac.uk/objects/0c8a089a-e6ff-43f5-9a1b-a9cdd43de368/surfaces/78b1fa17-08ad-41c4-82cc-35d6eba4fec2/
