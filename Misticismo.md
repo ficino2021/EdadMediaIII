@@ -2,13 +2,13 @@
 layout: page
 title: Misticismo- LA
 ---
-<p style = "font-family:didot,times New Roman,times;">
+<p style="font-family:didot,times New Roman,times;">
 Cabe aclarar que antes de introducirnos de lleno hacia el tema, habrá que hacer la precisión en cuanto a qué me refiero. 
 Es decir, que lo que concierne a todo este apartado es hacia el Misticismo Cristiano, y exponer una breve línea de actividades
 que he desarrollado bajo este tema en el curso de Historia de la filosofía III.
 </p>
 
-<p style = "font-family:courier,arial,helvética;">
+<p style="font-family:courier,arial,helvética;">
 # EDAD MEDIA
 </p>
 
