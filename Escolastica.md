@@ -61,6 +61,10 @@ DESCARGA DEL COMIC:
 
 [ACFrOgDiDwnozkWlhpi8riKIpaBguJ1p2Uw-GwvZkNvGaLQkjuB_x3oy4XM2O_mUlhzFU4C7VK2GqNwrdgxmPP2prWzYpgmUA8OBPJ4mFszAbrkFWKtSmMuNyolsLUNZXNW3htE3x9NKiDivToSU.pdf](https://github.com/ficino2021/EdadMediaIII/files/7696305/ACFrOgDiDwnozkWlhpi8riKIpaBguJ1p2Uw-GwvZkNvGaLQkjuB_x3oy4XM2O_mUlhzFU4C7VK2GqNwrdgxmPP2prWzYpgmUA8OBPJ4mFszAbrkFWKtSmMuNyolsLUNZXNW3htE3x9NKiDivToSU.pdf)
 
+## CONCLUSION
+
+Más que terminar con alguna justificacion de una idea o postura acerca de la edad media quiero mostrar mi aprecio sobre este curso, debido que fue bastante satisfactorio el aprendizaje de diversos temas que engloban esta época, aunque me centre en temas bastante comunes de la edad media está esta llena de una riqueza literaria y de reflexión así como artes y arquitectura, aunque la mayoría centralizada en un pensamiento teológico esta no pierde su valor por si mismo, el apreciar las obras originales me hacen reflexionar sobre la grandeza del pensamiento humano y como puede plasmar conceptos que a veces son difíciles de comprender, tal es el caso de dios, el amor, las criaturas fantásticas, historias de caballeros. Etc. en todo caso estas ahora tienen un gran aprecio por parte mía conociendo el contexto de la época que se realizaron.
+
 ## REFERENCIAS:
 SANTO TOMAS DE AQUINO, SUMA TEOLOGICA, 4a ed. (Madrid: BIBLIOTECA DE AUTORES CRISTIANOS, 2001)
 
