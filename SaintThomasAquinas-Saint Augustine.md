@@ -1,6 +1,6 @@
 ___
 Layout: minimal
-títle: Angeles y demonios
+title: Angeles y demonios
 ___
 
 Ángeles y demonios
