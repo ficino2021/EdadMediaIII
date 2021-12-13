@@ -1,7 +1,8 @@
-___
-Layout: minimal
-títle: amortés
-___
+---
+layout: page
+title: Amortes
+---
+
 ***El amor cortés en la edad media
 para comprender el amor romántico moderno.***
 
