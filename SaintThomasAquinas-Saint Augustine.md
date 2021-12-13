@@ -1,7 +1,7 @@
-___
-Layout: minimal
+---
+layout: page
 title: Angeles y demonios
-___
+---
 
 Ángeles y demonios
 
