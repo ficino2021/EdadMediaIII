@@ -1,3 +1,7 @@
+___
+Layout: minimal
+títle: Angeles y demonios
+___
 
 Ángeles y demonios
 
