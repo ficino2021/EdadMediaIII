@@ -1,5 +1,5 @@
 ---
-layout: mininal
+layout: page
 title: El lenguaje vulgar
 ---
 
