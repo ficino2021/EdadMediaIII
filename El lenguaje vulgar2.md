@@ -2,6 +2,8 @@
 layout: mininal
 title: El lenguaje vulgar
 ---
+
+
 **La lengua vulgar**
 En lo personal siempre me ha interesado el lenguaje y las formas de comunicación en el ser humano, en especial cómo se desarrollan y cómo se adquieren estas formas, por eso me ha parecido importante revisar un breve pero importante momento histórico, es decir la transición de las lenguas cultas a las vulgares, en concreto, me interesó revisar este tema debido a las discusiones actuales en torno al lenguaje inclusivo, con la finalidad de obtener mayores pruebas de porque la lengua debe evolucionar en cualquier momento y no quedarse estancada, de igual forma creo en la posición de que la lengua es una convención social, de tal forma que podemos ir cambiando dicha convención según cambien nuestros intereses. Dicho de manera sintética me interesó el valor universal que se le da a la lengua  tras las apreciaciones dantescas.
 
