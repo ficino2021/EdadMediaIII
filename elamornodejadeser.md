@@ -38,6 +38,7 @@ El siguiente cómic busca mostrar el amor cortes en tiempos actuales. Se puede v
 # Bibliografía
 
 + Fuentes primarias
+
 Capellanus Andreaus, El Arte del Amor Cortes, trad. John Jay Parry. Nueva York: Columbia Prensa Universitaria, 1941. Reimpreso Nueva York: Norton, 1969.
 
 ___________, Sobre el Amor, ed. Y trans. P. G. Walsh. Londres: Duckworth, 1982.
@@ -47,6 +48,7 @@ ___________, Tratado sobre el amor, trad. Inés Creixell Vidal-Quadras, ed. Sirm
 Cat. Mss. lat. BNF (1952) vol. III págs. 282-4 (siglo XIV); Luscombe La colección de cartas (2013) págs. LVI-LIX (siglo XIII med.-ex.)
 
 + Fuentes secundarias
+
 Irene van Renswoude, “Paris, BnF, lat. 2923”, El arte del razonamiento en los manuscritos medievales (diciembre de 2020), https://art-of-reasoning.huygens.knaw.nl/lat2923
 
 Jacubecki, Natalia, Petrarca Lector de Abelardo. Transcripción y Estudio Hermenéutico de las Notas Marginales al Epistolario, Revista Española de Filosofía Medieval, 22 (2015), ISSN :1133-0902, pp. 147-169.
